@@ -1,4 +1,4 @@
-👋 ## Hey there!
+## Hey there! 👋
 
 I'm Anthony, a Computer Science graduate with a strong foundation in cybersecurity, focused on defensive security, threat detection, incident response, and security operations.
 
