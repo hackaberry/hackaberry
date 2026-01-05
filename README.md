@@ -1,8 +1,8 @@
 ## Hey there! 👋
 
-I'm Anthony, a Computer Science graduate with a strong foundation in cybersecurity, focused on defensive security, threat detection, incident response, and security operations.
+I'm Anthony. I have a strong foundation in cybersecurity. My focus is on defensive security, threat detection, incident response, and security operations.
 
-I like building hands-on projects that simulate real-world environment.
+I like building hands-on projects that simulate real-world environments.
 
 <!--
 **hackaberry/hackaberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
